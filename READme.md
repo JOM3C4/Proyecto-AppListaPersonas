@@ -1,10 +1,10 @@
-#Proyecto Listado De Personas
+# Proyecto Listado De Personas
 
 Este es un proyecto que realice en un curso de javascript, se trata
 de una app que va creando un listado de personas mediante un formulario
 todo es interactivo para el usuario.
 
-###Notas:
+### Notas
 ```
 Recuerden Cualquier duda o pregunta tienen mi twitter en mi descripcion de
 github.
